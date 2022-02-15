@@ -1,3 +1,3 @@
 <?php
-include('index.html');
+include('website_development_assignments/index.html');
 ?>
